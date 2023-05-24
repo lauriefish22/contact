@@ -4,6 +4,7 @@
     "description": "",
     "main": "server.js",
     "scripts": {
+        "start:prod": "node server.js",
         "server": "node server.js"
     },
     "keywords": [],
